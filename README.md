@@ -154,7 +154,7 @@ KFC was founded by Colonel Harland Sanders (1890–1980), an entrepreneur who be
 ```
 ## Output:
 ![OUTPUT](./out1.png)
-![OUTPUT](./out2.png)
+![OUTPUT](./Out2.png)
 ![OUTPUT](./out3.png)
 ![OUTPUT](./out4.png)
 ![OUTPUT](./out5.png)
